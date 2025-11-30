@@ -1,3 +1,7 @@
 commit1
 commit2
+<<<<<<< HEAD
 commit4
+=======
+commit3
+>>>>>>> 63388079280d0fdeff4344f474c08ded98444bba
